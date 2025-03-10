@@ -1,7 +1,7 @@
 # Chatroom-App
 
 This program is a client-server pair that allows for multiple clients to connect to a single server
-and integrates a char functionality.
+and integrates a chat functionality.
 
 ## ChatClient:
 The client application ChatClient handles connections to the server and sending and receiving
