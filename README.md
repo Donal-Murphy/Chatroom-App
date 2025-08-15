@@ -1,6 +1,6 @@
 # Chatroom-App
 
-This program is a client-server pair that allows for multiple clients to connect to a single server
+This program is a client-server pair that allows for multiple clients (up to 50) to connect to a single server
 and integrates a chat functionality.
 
 ##  Prerequisites
