@@ -80,14 +80,6 @@ Connected to chatroom. Type your messages below:
 
 ---
 
-## 📦 Future Improvements
-- Private messaging between clients
-- User authentication
-- Persistent chat logs
-- GUI interface
-
----
-
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
 
